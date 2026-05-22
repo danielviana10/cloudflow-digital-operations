@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>cloudflow_view</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-22 03:27:23</sys_created_on>
+        <sys_id>e466bef8d5c103107f44a2159e3a010b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CloudFlow View</sys_name>
+        <sys_package display_value="CloudFlow Operations" source="x_snc_cloudflow_op">4020b634d5c103107f44a2159e3a01dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CloudFlow Operations">4020b634d5c103107f44a2159e3a01dc</sys_scope>
+        <sys_update_name>sys_ui_view_e466bef8d5c103107f44a2159e3a010b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-22 03:27:23</sys_updated_on>
+        <title>CloudFlow View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
